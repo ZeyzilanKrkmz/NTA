@@ -1,0 +1,6 @@
+@NTA_HostAddress = http://localhost:5127
+
+GET {{NTA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

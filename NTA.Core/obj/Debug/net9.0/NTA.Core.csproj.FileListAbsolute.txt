@@ -1,0 +1,15 @@
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.csproj.AssemblyReference.cache
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.AssemblyInfoInputs.cache
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.AssemblyInfo.cs
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.csproj.CoreCompileInputs.cache
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.sourcelink.json
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\bin\Debug\net9.0\NTA.Core.deps.json
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\bin\Debug\net9.0\NTA.Core.dll
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\bin\Debug\net9.0\NTA.Core.pdb
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.dll
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\refint\NTA.Core.dll
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.pdb
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\ref\NTA.Core.dll
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\bin\Debug\net9.0\NTA.Core.runtimeconfig.json
+C:\Users\zzk60\OneDrive\Belgeler\GitHub\NTA\API\NTAAPI\NTA.Core\obj\Debug\net9.0\NTA.Core.genruntimeconfig.cache
